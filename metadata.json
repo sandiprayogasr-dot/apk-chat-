@@ -1,0 +1,6 @@
+{
+  "name": "Element Messenger",
+  "description": "Aplikasi Element Messenger Android mobile dengan tema dark emerald glassmorphism, 5 menu navigasi, enkripsi end-to-end, dan panggilan HD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
